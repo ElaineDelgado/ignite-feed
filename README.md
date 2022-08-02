@@ -6,11 +6,20 @@
   <a href="https://github.com/ElaineDelgado" target="_blank">Author</a>
 </p>
 
+	
+	
   &#xa0;
 
 </div>
 <h1 align="center">Ignite Feed 🚀</h1>
 <br>
+<p align="center">
+ <img alt="Github top language" src="https://img.shields.io/badge/language-react-blue">
+ <img alt="Github top language" src="https://img.shields.io/badge/language-typescript-9cf">
+ <img alt="Github top language" src="https://img.shields.io/badge/language-javascript-yellow">
+ <img alt="Github top language" src="https://img.shields.io/badge/language-html-orange">
+ <img alt="Github top language" src="https://img.shields.io/badge/language-css-informational">
+	</p>
 
 ## :dart: About ##
 
