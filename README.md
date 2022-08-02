@@ -8,16 +8,17 @@
 
   &#xa0;
 
-  <!-- <a href="https://reactfundamentos.netlify.app">Demo</a> -->
 </div>
-
+<h1 align="center">Ignite Feed 🚀</h1>
 <br>
 
 ## :dart: About ##
 
 Um feed onde é possível vizualizar posts e realizar comentários.
 
-<h1 align="center">Ignite Feed 🚀</h1>
+
+<h3> Acesse a aplicação aqui: <a href="ignitefeedapp.netlify.app">Ignite Feed App Link</a> </h3>
+   
 <br>
 <br>
 <hr> 
