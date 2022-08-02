@@ -17,7 +17,7 @@
 Um feed onde é possível vizualizar posts e realizar comentários.
 
 
-<h3> Acesse a aplicação aqui: <a href="ignitefeedapp.netlify.app">Ignite Feed App Link</a> </h3>
+<h3> Acesse a aplicação aqui: <a href="https://ignitefeedapp.netlify.app/">Ignite Feed App Link</a> </h3>
    
 <br>
 <br>
